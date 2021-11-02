@@ -1,4 +1,5 @@
 # USB_Drive_bootloader
+Hardware Used: STM32F4 Discovery
 
 USB Drive bootloader for STM32
 
